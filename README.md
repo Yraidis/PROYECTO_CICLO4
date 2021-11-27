@@ -1,2 +1,8 @@
-# PROYECTO_CICLO4
-Proyecto ciclo 4
+# Project-CRM-Back
+
+npm i
+
+
+# RUN
+
+npm start
